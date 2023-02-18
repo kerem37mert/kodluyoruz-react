@@ -1,3 +1,4 @@
-import topla from "./myModeule.js";
 
-console.log(topla(2,8));
+const dizi = ["kerem","meret","naber"];
+
+dizi.forEach(item => console.log(item));
